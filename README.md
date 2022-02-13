@@ -1,1 +1,2 @@
-# budgeting-app
+# React Starter Template
+
